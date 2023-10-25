@@ -1,0 +1,25 @@
+cPanel: Link: https://s13.hosterpk.com:2096/
+	Email: Huraira@digitalcoverage.com.pk
+	Pass: Huraira2023*
+
+
+npm vs npx
+state and use state
+usenaigation(IN dom 5 its name is usehistory) and uselocation
+css modules (question)
+
+	
+React:
+navigation:    <Routes>
+        <Route path="/" element={<AllMeetupsPage />} />
+        <Route path="/new-meetup" element={<NewMeetupsPage />} />
+        <Route path="/favorites" element={<FavoritesPage />} />
+      </Routes>
+
+
+Tips
+After run a comand "npm install" all the dependencies in pakage.json copy and stored it in node modules (hold all third parties dependencies) folder
+stand alone terminal (cmd, powershell) 
+integrated terminal (inside IDE) run comand in ide si become pros because its imediatily show error
+
+react internally difrentiate between html tag and custom component(element) with case : in componet function we need to create it with first letter capital thats why react read it as a component
